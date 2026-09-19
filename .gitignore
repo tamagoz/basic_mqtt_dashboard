@@ -1,0 +1,19 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# ESP-IDF build output
+build/
+managed_components/
+*.old
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary and binary outputs
+*.bin
+*.elf
+*.map
+*.o
+*.obj
